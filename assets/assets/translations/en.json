@@ -1,0 +1,22 @@
+{
+  "app": "تطبيقي",
+  "timeout": "انتهت مهلة الطلب",
+  "noInternet": "لا يوجد اتصال بالإنترنت",
+  "serverError": "خطأ في الخادم",
+  "formatError": "خطأ في التنسيق",
+  "unauthorized": "دخول غير مصرح به",
+  "forbidden": "ممنوع",
+  "notFound": "غير موجود",
+  "conflict": "تعارض",
+  "validationError": "خطأ في التحقق",
+  "internalServerError": "خطأ داخلي في الخادم",
+  "badRequest": "طلب غير صالح",
+  "canceled": "تم إلغاء الطلب",
+  "payloadTooLarge": "الحمل كبير جدًا",
+  "unsupportedMediaType": "نوع الوسائط غير مدعوم",
+  "tooManyRequests": "طلبات كثيرة جدًا",
+  "badGateway": "بوابة غير صالحة",
+  "serviceUnavailable": "الخدمة غير متوفرة",
+  "gatewayTimeout": "انتهت مهلة البوابة",
+  "unknown": "خطأ غير معروف"
+}

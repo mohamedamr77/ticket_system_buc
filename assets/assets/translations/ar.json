@@ -1,0 +1,22 @@
+{
+  "app": "My App",
+  "timeout": "Request timed out",
+  "noInternet": "No internet connection",
+  "serverError": "Server error",
+  "formatError": "Format error",
+  "unauthorized": "Unauthorized access",
+  "forbidden": "Forbidden",
+  "notFound": "Not found",
+  "conflict": "Conflict",
+  "validationError": "Validation error",
+  "internalServerError": "Internal server error",
+  "badRequest": "Bad request",
+  "canceled": "Request canceled",
+  "payloadTooLarge": "Payload too large",
+  "unsupportedMediaType": "Unsupported media type",
+  "tooManyRequests": "Too many requests",
+  "badGateway": "Bad gateway",
+  "serviceUnavailable": "Service unavailable",
+  "gatewayTimeout": "Gateway timeout",
+  "unknown": "Unknown error"
+}
